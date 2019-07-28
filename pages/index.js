@@ -17,17 +17,7 @@ function Index() {
         <title>Next.js + Node API</title>
       </Head>
       <h1>Next.js + Node.js API</h1>
-      <h2>
-        Deployed with{' '}
-        <a
-          href="https://zeit.co/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          ZEIT Now
-        </a>
-        !
-      </h2>
+      <h2>Deployed with Me</h2>
       <p>
         <a
           href="https://github.com/zeit/now-examples/blob/master/nextjs"
